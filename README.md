@@ -1,6 +1,6 @@
  # Apex-Particles
 
-![Screenshot](https://github.com/RonnyWeiss/Apex-Notification-Menu-for-NavBar/blob/master/screenshot.gif?raw=true)
+![Screenshot](https://github.com/RonnyWeiss/Apex-Moving-Particles/blob/master/screenshot.gif?raw=true)
 
 This dynamic action plugin allows to render three different moving canvas. You can choose between Particles.js, Bubbles and Circles & Crosses.
 
